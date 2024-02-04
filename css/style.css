@@ -63,6 +63,7 @@ margin-right: 50px;
 border-color: #ffffff;
 border-style: solid;
 border-width: 2px 5px 0px 0px;
+}
 .blue h2 {
     color: #c4c4c4
     }
@@ -70,29 +71,31 @@ border-width: 2px 5px 0px 0px;
 .blue p {
     color: #c4c4c4
     }
-}
+
 
 
 .yellow{background-color: #ffff00;
 text-align: right;
 margin-left: 50px;
 border-width: 0px 0px 2px 5px;
+    }
 .yellow p {
     color: #707070
     }
-}
+
 
 
 .green {background-color: #008500;
 text-align: left;
 margin-right: 50px;
 border-width: 2px 5px 0px 0px;
-}
+    }
 
 footer{background-image: linear-gradient(to right, #000000, #0000ff 25%, #0066ff 70%, #000000);
 border-color: #ffffff;
 border-style: solid;
 border-width: 5px;
+    }
 footer p { 
     font-size: 20px;
     text-align: right;
@@ -100,7 +103,7 @@ footer p {
     padding-right: 15px;
     padding-bottom: 15px;
     }
-}
+
 
 
 
