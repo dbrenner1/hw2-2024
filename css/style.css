@@ -1,0 +1,129 @@
+
+
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+h1{color: white;
+text-align: center;
+font-weight: lighter;}
+
+
+img {
+    border-color: white;
+    border-style: dashed;
+    border-width: 7px;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+    width: 20%;
+}
+
+
+.introduction {background-color: black;
+display: block;
+color: white;
+border-color: whitesmoke;
+border-style: solid;
+border-radius: 10px;
+padding-left: 10px;
+padding-top: 10px;
+height: 125px;
+p {
+padding-left: 10px;}
+}
+
+.red {background-color: red;
+    border-style: solid;
+    border-width: 0px 0px 1px 2px;
+    border-color: white;
+    padding-right: 10px;
+    padding-top:5px;
+    margin-left:50px;
+    height: 125px;
+    h2{color:black;
+    font-size: largest;
+    text-align: right;
+    padding-right: 10px;
+    font-weight: lighter;}
+    p {text-align: right;
+    margin-top: -10px;
+    font-size: larger;
+    color: white;
+    padding-right: 10px;
+    padding-bottom: 25px;}
+}
+
+
+.blue {background-color: blue;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px 2px 0px 0px;
+    margin-right: 50px;
+    margin-bottom: -20px;
+    height: 125px;
+h2 {color: whitesmoke;
+font-size:largest;
+margin-left: 10px;
+margin-top: 10px;
+font-weight: lighter;}
+p {color: whitesmoke;
+margin-left: 15px;
+margin-bottom: 20px;
+font-size:larger;}
+}
+
+
+.yellow{background-color: yellow;
+    border-style: solid;
+    border-color: white;
+    border-width: 0px 0px 1px 2px;
+    text-align: right;
+    padding-right: 10px;
+    margin-left: 50px;
+    height: 125px;
+    h2 {color: black;
+    font-size: largest;
+    padding-top: 10px;
+    margin-right: 10px;
+    font-weight: lighter;}
+    p {color: grey;
+    padding-right: 10px;
+    margin-bottom: 50px;
+    font-size: larger;}
+
+}
+
+
+.green{background-color: green;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px 2px 0px 0px;
+    text-align: left;
+    margin-right: 50px;
+    padding-bottom: -10px;
+    height: 150px;
+    h2 { color: black;
+    margin-left: 10px;
+    font-size: largest;
+    font-weight: lighter;}
+    p {color: white;
+    margin-left: 15px;
+    padding-bottom: 25px;
+    font-size: larger;
+    }
+
+}
+
+footer {background-image: linear-gradient(to right, black,blue, black);
+color: white; 
+text-align: right;
+border-style: solid;
+border-color: white;
+margin-right: 10px;
+height: 65px;
+p{margin-right: 10px;}}
+
+
+
